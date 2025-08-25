@@ -4,7 +4,7 @@
 
 </div>
 
-# NEXTTRACE WEB API
+# NEXTTRACE WEB
 
 NEXTTRACE项目派生的仓库，用于实现简易的NEXTTRACE WEB API服务端
 
